@@ -1,8 +1,8 @@
-# master-thesis-stellar-autoencoder
+# Master's Thesis - Physics of Data
 
 Master's thesis project: *Autoencoder Interpolator for Stellar Structure Models*
 
-University of Padova, Physics of Data, 2026
+University of Padova, 2026\
 Supervisors: G. Costa, G. Iorio, T. Zingales
 
 ---
